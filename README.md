@@ -1,3 +1,11 @@
+## 💫 About Me:
+👋 Hey there, I’m Arya!  
+• 🧠 Currently pursuing B.Tech in Computer Science & Engineering.  
+• 🎓 Studying at Birla Institute of Technology, Mesra.  
+• 🛠 Passionate about building intelligent systems — from LLM-integrated apps to deep learning pipelines.  
+• 🌐 Full-stack developer with a flair for both frontend elegance and backend architecture.  
+• 🚀 Actively experimenting with LLMs, RAG pipelines, NLP, and vision transformers.  
+• ⚡ Coding, for me, is not just problem-solving — it’s structured imagination in action.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryach05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryachakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryastlawrence@gmail.com) 
