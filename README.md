@@ -1,5 +1,5 @@
-## 💫 About Me:
-👋 Hey there, I’m Arya!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7CA16FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arya+Chakraborty+%F0%9F%91%8B)]()
+
 • 🧠 Currently pursuing B.Tech in Computer Science & Engineering.  
 • 🎓 3rd yr student at Birla Institute of Technology, Mesra.  
 • 🛠 Passionate about building intelligent systems — from LLM-integrated apps to deep learning pipelines.  
@@ -38,6 +38,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-%23FFBF00?style=for-the-badge) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
