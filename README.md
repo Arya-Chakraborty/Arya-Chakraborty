@@ -4,7 +4,7 @@
 • 🎓 3rd yr student at Birla Institute of Technology, Mesra.  
 • 🛠 Passionate about building intelligent systems — from LLM-integrated apps to deep learning pipelines.  
 • 🌐 Full-stack developer with a flair for both frontend elegance and backend architecture.  
-• 🚀 Actively experimenting with LLMs, ML pipelines, RAG, NLP, and vision transformers.  
+• 🚀 Actively experimenting with LLMs, ML pipelines, RAG, NLP, and transformers.  
 • ⚡ Coding, for me, is not just problem-solving — it’s structured imagination in action.
 
 ## 🌐 Socials:
