@@ -12,6 +12,7 @@
 
 
 ## 💻 Tech Stack:
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -75,10 +76,16 @@
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Arya-Chakraborty&theme=monokai&hide_border=false)
+<div>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya-Chakraborty&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arya-Chakraborty&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arya-Chakraborty&theme=github_dark"  />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Arya-Chakraborty&theme=transparent&hide_border=false"/>
+</div>
+
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Arya-Chakraborty&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arya-Chakraborty&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## 😉 Happy Coding!
 <picture>
