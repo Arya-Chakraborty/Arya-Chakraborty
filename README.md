@@ -77,8 +77,9 @@
 
 ## 📊 GitHub Stats:
 <div align="left">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Arya-Chakraborty&theme=transparent&hide_border=false"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Arya-Chakraborty&theme=transparent&hide_border=false&card_width=350"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arya-Chakraborty&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arya-Chakraborty&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya-Chakraborty&theme=github_dark" />
 
 </div>
