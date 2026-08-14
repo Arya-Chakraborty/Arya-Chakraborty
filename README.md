@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7CA16FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arya+Chakraborty+%F0%9F%91%8B)]()
  
 • 🧠 Currently pursuing B.Tech in Computer Science & Engineering.  <br>
-• 🎓 3rd yr student at Birla Institute of Technology, Mesra.  <br>
+• 🎓 Final yr student at Birla Institute of Technology, Mesra.  <br>
 • 🛠 Passionate about building intelligent systems — from LLM-integrated apps to deep learning pipelines.  <br>
 • 🌐 Full-stack developer with a flair for both frontend elegance and backend architecture.  <br>
 • 🚀 Actively experimenting with LLMs, ML pipelines, RAG, NLP, and transformers.  <br>
